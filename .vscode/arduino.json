@@ -2,5 +2,6 @@
     "configuration": "flash=8388608_0,freq=125,dbgport=Disabled,dbglvl=None,usbstack=picosdk",
     "board": "rp2040:rp2040:adafruit_feather",
     "programmer": "rp2040:atmel_ice",
-    "sketch": "main.ino"
+    "sketch": "main.ino",
+    "output": "./build"
 }
