@@ -1,8 +1,6 @@
 # 1 "c:\\Users\\faane\\Documents\\Arduino\\raygun\\main.ino"
 # 2 "c:\\Users\\faane\\Documents\\Arduino\\raygun\\main.ino" 2
-
-# 4 "c:\\Users\\faane\\Documents\\Arduino\\raygun\\main.ino" 2
-# 5 "c:\\Users\\faane\\Documents\\Arduino\\raygun\\main.ino" 2
+# 3 "c:\\Users\\faane\\Documents\\Arduino\\raygun\\main.ino" 2
 
 
 
@@ -38,9 +36,6 @@ void setup()
 
 void loop()
 {
-        timedelta_update();
-
-        elapsed_time += delta;
 
         if (elapsed_time >= frameTime) {
                 elapsed_time = 0;

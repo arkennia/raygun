@@ -70,3 +70,6 @@ nbbuild.xml
 nbproject
 
 .vscode/c_cpp_properties.json
+
+build/*
+!build/.gitignore
