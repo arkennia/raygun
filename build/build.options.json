@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "..,..\\..,..\\..",
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "builtInToolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=c:\\Users\\faane\\Documents\\Arduino\\raygun\\build,build.warn_data_percentage=75,runtime.tools.pqt-python3.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-python3\\1.0.1-base-3a57aed,runtime.tools.pqt-python3-1.0.1-base-3a57aed.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-python3\\1.0.1-base-3a57aed,runtime.tools.pqt-elf2uf2.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-elf2uf2\\1.3.1-a-7855b0c,runtime.tools.pqt-elf2uf2-1.3.1-a-7855b0c.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-elf2uf2\\1.3.1-a-7855b0c,runtime.tools.pqt-pioasm.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-pioasm\\1.3.1-a-7855b0c,runtime.tools.pqt-pioasm-1.3.1-a-7855b0c.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-pioasm\\1.3.1-a-7855b0c,runtime.tools.pqt-gcc.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\1.3.1-a-7855b0c,runtime.tools.pqt-gcc-1.3.1-a-7855b0c.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-gcc\\1.3.1-a-7855b0c,runtime.tools.pqt-openocd.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-openocd\\1.3.1-a-7855b0c,runtime.tools.pqt-openocd-1.3.1-a-7855b0c.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-openocd\\1.3.1-a-7855b0c,runtime.tools.pqt-mklittlefs.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-mklittlefs\\1.3.1-a-7855b0c,runtime.tools.pqt-mklittlefs-1.3.1-a-7855b0c.path=C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages\\rp2040\\tools\\pqt-mklittlefs\\1.3.1-a-7855b0c",
+  "fqbn": "rp2040:rp2040:adafruit_feather:flash=8388608_0,freq=125,dbgport=Disabled,dbglvl=None,usbstack=picosdk",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\faane\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\faane\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10816",
+  "sketchLocation": "c:\\Users\\faane\\Documents\\Arduino\\raygun\\main.ino"
+}

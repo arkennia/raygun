@@ -1,3 +1,6 @@
+#line 1 "c:\\Users\\faane\\Documents\\Arduino\\raygun\\main.ino"
+#include "libraries/timedelta.h"
+
 #include <Adafruit_NeoPixel.h>
 #include <Arduino.h>
 
@@ -24,6 +27,11 @@ uint8_t g = 0;
 uint8_t b = 0;
 uint8_t w = 0;
 
+#line 29 "c:\\Users\\faane\\Documents\\Arduino\\raygun\\main.ino"
+void setup();
+#line 38 "c:\\Users\\faane\\Documents\\Arduino\\raygun\\main.ino"
+void loop();
+#line 29 "c:\\Users\\faane\\Documents\\Arduino\\raygun\\main.ino"
 void setup()
 {
 // Mostly needed for certain kinds of trinkets, no harm in leaving it in
@@ -35,6 +43,9 @@ void setup()
 
 void loop()
 {
+        timedelta_update();
+
+        elapsed_time += delta;
 
         if (elapsed_time >= frameTime) {
                 elapsed_time = 0;
