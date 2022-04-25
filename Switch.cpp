@@ -1,6 +1,13 @@
 #include "Switch.h"
 
+#ifndef TESTING
 #include <Arduino.h>
+#else
+extern "C"{
+        #include "test/Arduino_mock.h"
+}
+#include <cstdio>
+#endif // TESTING
 
 void Switch::begin(int setting1, int setting2, int setting3, int setting4)
 {
