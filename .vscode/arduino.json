@@ -1,0 +1,4 @@
+{
+    "configuration": "flash=8388608_0,freq=125,dbgport=Disabled,dbglvl=None,usbstack=picosdk",
+    "board": "rp2040:rp2040:adafruit_feather"
+}
